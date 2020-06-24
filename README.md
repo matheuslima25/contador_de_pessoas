@@ -1,6 +1,6 @@
 # contadordepessoas
 
-A new Flutter application.
+Primeiro projeto do curso "Criação de Apps Android e iOS com Flutter" da Flutter Brasil.
 
 ## Getting Started
 
